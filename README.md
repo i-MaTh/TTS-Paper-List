@@ -1,6 +1,8 @@
 # TTS-Paper-List
-## Speaker Adaptation
+## Few-shot TTS
 * Spoken Content and Voice Factorization for Few-shot Speaker Adaptation
+* Attentron: Few-shot Text-to-Speech Exploiting Attention-based Variable Length Embedding
+* Zero-Shot Multi-Speaker Text-To-Speech with State-of-the-art Neural Speaker Embeddings
 ## Multi-Speaker TTS
 *
 ## Multi-Lingual TTS
